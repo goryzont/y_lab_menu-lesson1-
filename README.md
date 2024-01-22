@@ -1,4 +1,4 @@
-# :white_check_mark:  Запуск проекта
+# :memo:  Запуск проекта
 
 1.Склонируйте репозиторий git clone https://github.com/goryzont/y_lab_menu-lesson1-
 

@@ -1,4 +1,4 @@
-# :memo:  Запуск проекта
+# :pencil:  Запуск проекта
 
 1.Склонируйте репозиторий git clone https://github.com/goryzont/y_lab_menu-lesson1-
 

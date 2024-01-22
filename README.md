@@ -5,13 +5,13 @@
 3.Создайте файл .env в дериктории проекта и заполните его по примеру файла .env
 4.Создайте виртуальное окружение в дериктории проекта и активируйте его:
 ```python -m venv venv
-source venv/bin/activate```
+source venv/bin/activate
 
 5.Установите все зависимости
-```pip install -r requirements.txt```
+pip install -r requirements.txt
 
 6.Примените миграцию
-```alembic upgrade head```
+alembic upgrade head
 
 7.Запустите сервер 
-```uvicorn app.main:app --reload```
+uvicorn app.main:app --reload```

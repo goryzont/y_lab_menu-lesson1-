@@ -23,5 +23,5 @@ alembic upgrade head
 ```
 7.Запустите сервер 
 ```
-uvicorn app.main:app --reload```
+uvicorn app.main:app --reload
 ```
